@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.6.1",
+    "prom-client": "^15.1.1",
+    "protobufjs": "^7.2.6",
+    "snappyjs": "^0.7.0"
+  }
+}
